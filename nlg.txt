@@ -1,0 +1,40 @@
+"The item 'Laptops' with an ID of 1 has a quantity of 50 and weighs 1.5 kg. Its dimensions are 30 x 20 x 5, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Office Chairs' with an ID of 2 has a quantity of 20 and weighs 15.0 kg. Its dimensions are 80 x 80 x 100, and it is marked as No and Yes. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Desks' with an ID of 3 has a quantity of 15 and weighs 30.0 kg. Its dimensions are 150 x 80 x 75, and it is marked as No and Yes. This item is scheduled for delivery to Davao using a Container with a capacity of 20,000 and dimensions of 800 x 240 x 240."
+
+"The item 'Monitors' with an ID of 4 has a quantity of 40 and weighs 3.0 kg. Its dimensions are 60 x 30 x 20, and it is marked as Yes and Yes. This item is scheduled for delivery to Manila using a Van with a capacity of 1,000 and dimensions of 300 x 150 x 150."
+
+"The item 'Books' with an ID of 5 has a quantity of 100 and weighs 0.5 kg. Its dimensions are 25 x 20 x 5, and it is marked as No and Yes. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Printers' with an ID of 6 has a quantity of 25 and weighs 10.0 kg. Its dimensions are 50 x 50 x 30, and it is marked as Yes and No. This item is scheduled for delivery to Davao using a Container with a capacity of 20,000 and dimensions of 800 x 240 x 240."
+
+"The item 'Filing Cabinets' with an ID of 7 has a quantity of 10 and weighs 40.0 kg. Its dimensions are 60 x 60 x 120, and it is marked as No and No. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Air Conditioners' with an ID of 8 has a quantity of 15 and weighs 20.0 kg. Its dimensions are 70 x 60 x 35, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Van with a capacity of 1,000 and dimensions of 300 x 150 x 150."
+
+"The item 'Paper Rolls' with an ID of 9 has a quantity of 200 and weighs 1.0 kg. Its dimensions are 10 x 10 x 20, and it is marked as No and Yes. This item is scheduled for delivery to Davao using a Container with a capacity of 20,000 and dimensions of 800 x 240 x 240."
+
+"The item 'Desktop Computers' with an ID of 10 has a quantity of 30 and weighs 5.0 kg. Its dimensions are 40 x 20 x 40, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Smart TVs' with an ID of 11 has a quantity of 10 and weighs 8.0 kg. Its dimensions are 100 x 20 x 60, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Van with a capacity of 1,000 and dimensions of 300 x 150 x 150."
+
+"The item 'Refrigerators' with an ID of 12 has a quantity of 5 and weighs 75.0 kg. Its dimensions are 70 x 80 x 180, and it is marked as Yes and No. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Medical Supplies' with an ID of 13 has a quantity of 100 and weighs 0.8 kg. Its dimensions are 20 x 20 x 10, and it is marked as Yes and Yes. This item is scheduled for delivery to Davao using a Container with a capacity of 20,000 and dimensions of 800 x 240 x 240."
+
+"The item 'Tires' with an ID of 14 has a quantity of 50 and weighs 10.0 kg. Its dimensions are 60 x 60 x 20, and it is marked as No and Yes. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Solar Panels' with an ID of 15 has a quantity of 25 and weighs 15.0 kg. Its dimensions are 150 x 100 x 10, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Plastic Crates' with an ID of 16 has a quantity of 200 and weighs 2.0 kg. Its dimensions are 30 x 30 x 30, and it is marked as No and Yes. This item is scheduled for delivery to Cebu using a Van with a capacity of 1,000 and dimensions of 300 x 150 x 150."
+
+"The item 'Lighting Fixtures' with an ID of 17 has a quantity of 50 and weighs 0.5 kg. Its dimensions are 40 x 20 x 20, and it is marked as Yes and No. This item is scheduled for delivery to Manila using a Van with a capacity of 1,000 and dimensions of 300 x 150 x 150."
+
+"The item 'Cement Bags' with an ID of 18 has a quantity of 100 and weighs 50.0 kg. Its dimensions are 50 x 40 x 10, and it is marked as No and Yes. This item is scheduled for delivery to Davao using a Container with a capacity of 20,000 and dimensions of 800 x 240 x 240."
+
+"The item 'Paint Cans' with an ID of 19 has a quantity of 60 and weighs 2.0 kg. Its dimensions are 20 x 20 x 30, and it is marked as Yes and Yes. This item is scheduled for delivery to Cebu using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
+"The item 'Carpets' with an ID of 20 has a quantity of 30 and weighs 8.0 kg. Its dimensions are 200 x 20 x 20, and it is marked as No and Yes. This item is scheduled for delivery to Manila using a Truck with a capacity of 5,000 and dimensions of 400 x 200 x 200."
+
